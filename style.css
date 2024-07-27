@@ -1,0 +1,24 @@
+.holder{
+    display: flex;
+width: 200px;
+height: 200px;
+border: solid ;
+}
+
+
+.item{
+width: 100px;
+display: flex;
+justify-content: center;
+flex-shrink: 20px;
+}
+
+.itemfirst{
+    background-color: red;
+    
+}
+
+.itemsecond{
+    background-color: blue;
+}
+
